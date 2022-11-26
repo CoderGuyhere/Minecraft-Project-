@@ -3,7 +3,7 @@
 
 * FUD ( Fully undetectable ) 
 * Grab File it's not a phishing page
-* Create with python3
+* It's my favourite project
 
 > # Screenshot
 
