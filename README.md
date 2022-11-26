@@ -19,4 +19,4 @@
 
 * ***Use This tool only for Educational Prupose***
 * ***I decline all responsibility***
-* ***I'll do a youtube video on how to log into grabbed account if you see videos about MineExploit always check the name of the channel***
+* ***I'll do a youtube video on how to log into grabbed account so don't dm abot it please***
