@@ -12,7 +12,6 @@
 
 > # Important Links
 
-* Youtube : ```https://www.youtube.com/channel/UCsv63jbumCq3sv1GrlQ6aog```
 * Discord : ```https://discord.gg/7UuPdqWuGq```
 
 > # Disclaimer
